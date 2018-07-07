@@ -7,3 +7,4 @@ All solutions are in python and are accepted by Leetcode.
 * [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 * [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
 * [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
+* [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
