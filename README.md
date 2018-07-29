@@ -10,4 +10,5 @@ All solutions are in python and are accepted by Leetcode.
 * [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 * [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)
 * [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
+* [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/description/)
 * [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
