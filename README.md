@@ -12,3 +12,5 @@ All solutions are in python and are accepted by Leetcode.
 * [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
 * [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/description/)
 * [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
+* [Conatiner with Most Water](https://leetcode.com/problems/container-with-most-water/description/)
+* [Reverse words in a string](https://leetcode.com/problems/reverse-words-in-a-string/description/)
